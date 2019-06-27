@@ -1,0 +1,16 @@
+{
+  "name": "thj-webview-js-bridge",
+  "version": "1.0.0",
+  "description": "An ios/android bridge for sending messages between Obj-C and Javascript in webviews.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webview",
+    "javascript",
+    "bridge"
+  ],
+  "author": "TianHJ",
+  "license": "ISC"
+}
